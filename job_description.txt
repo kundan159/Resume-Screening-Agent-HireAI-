@@ -1,0 +1,38 @@
+Job Title: Backend Software Engineer (Python / Cloud)
+Location: Bengaluru, India (Hybrid)
+Experience Required: 4-8 years
+
+About the Role:
+We are looking for a Backend Software Engineer to design, build, and scale the services that
+power our core product. You will work closely with product, frontend, and DevOps teams to
+ship reliable, well-tested APIs and services running in the cloud.
+
+Required Skills:
+- Strong proficiency in Python (4+ years professional experience)
+- Experience building and maintaining REST APIs (Flask, FastAPI, or Django)
+- Solid understanding of relational databases, especially PostgreSQL, and SQL query optimization
+- Hands-on experience with AWS (EC2, S3, Lambda, RDS)
+- Experience with Docker and container-based deployments
+- Familiarity with CI/CD pipelines and Git-based workflows
+- Understanding of system design and distributed systems fundamentals
+- Experience writing unit and integration tests (pytest or similar)
+
+Preferred Skills:
+- Experience with Kubernetes
+- Experience with message queues (Kafka, RabbitMQ, or SQS)
+- Familiarity with Redis or other caching layers
+- Exposure to Terraform or other infrastructure-as-code tools
+- Experience mentoring junior engineers or leading small projects
+- Familiarity with GraphQL
+
+Education:
+- Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent
+  practical experience)
+
+Responsibilities:
+- Design and implement scalable backend services and APIs
+- Own features end-to-end: design, implementation, testing, deployment, and monitoring
+- Collaborate with cross-functional teams to define technical requirements
+- Participate in code reviews and uphold engineering best practices
+- Debug and resolve production issues, contributing to on-call rotations
+- Continuously improve system performance, reliability, and security
